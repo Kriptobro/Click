@@ -1,6 +1,6 @@
-python bot.py +[phone1] doge
-python bot.py +[phone1] zec
-python bot.py +[phone1] ltc
+python bot.py +77002168301 doge
+python bot.py +77002168301 zec
+python bot.py +77002168301 ltc
 python bot.py +[phone1] btc
 python bot.py +[phone1] bch
 clear
